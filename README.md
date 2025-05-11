@@ -10,6 +10,10 @@ The Keyboard Ruler is a satirical project intended as a direct provocation towar
 - Press the second key at the other end of the object.
 - The program will output the distance in centimeters between the two keys.
 
+### Image sample
+
+<img src="example.jpeg" alt="Example" width="200"/>
+
 ### Setup
 
 First line of the program contains dimension of keycaps and distance between them. Every test was performed on a qwerty keyboard for MacBook Air 2013. In order to calibrate the ruler make sure to change parameters:  _KEY_WIDTH_CM_, _KEY_SPACING_CM_.
