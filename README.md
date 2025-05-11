@@ -12,7 +12,7 @@ The Keyboard Ruler is a satirical project intended as a direct provocation towar
 
 ### Image sample
 
-<img src="example.jpeg" alt="Example" width="50%" height="50%">
+<img src="example.jpeg" alt="Example">
 
 
 ### Setup
